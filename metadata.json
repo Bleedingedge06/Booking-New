@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Booking",
+  "description": "A modern, professional booking interface for end-of-lease cleaning services featuring dynamic price estimation and responsive design.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
